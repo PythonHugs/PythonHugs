@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PythonHugs
 - 👀 I’m interested in Python, crypto
-- 🌱 I’m currently learning Brownie
-- 💞️ I’m looking to collaborate on Python projects and projects relating to cryptocurrency
-- 📫 How to reach me: TBD
+- 🌱 I’m currently learning Jenkins
+- 💞️ I’m looking to collaborate on Python projects
+- 📫 How to reach me: 
 
 <!---
 PythonHugs/PythonHugs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
